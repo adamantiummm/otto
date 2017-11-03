@@ -4,10 +4,6 @@
 	show(fabGrade);
 	show(price_fabInc);
 
-	leatherGrade.value = "select";
-	setZero(price_leatherInc);
-	hide(leatherGrade);
-	hide(price_leatherInc);
 
 	setZero(price_comInc);
 	hide(price_comInc);
