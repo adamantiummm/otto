@@ -5,7 +5,7 @@ if (discountType.value === "new" || discountType.value === "refer"){
 	show(upholstery);
 }
 
-//upholstery switch
+//upholstery switch uhh yeahhh
 	switch(upholstery.value){
 		case 'fabric' :
 		//fab inc pricing
